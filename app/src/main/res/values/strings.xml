@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Great Stores</string>
+    <string name="action_settings">Exit</string>
+    <string name="title_activity_store_details">StoreDetails</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="eng_phone">Phone:</string>
+    <string name="eng_storeID">Store ID:</string>
+</resources>
